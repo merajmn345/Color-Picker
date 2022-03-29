@@ -1,0 +1,10 @@
+.color-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.target-div {
+  margin: 40px;
+  height: 300px;
+  width: 300px;
+  background-color: lightgrey;
+}

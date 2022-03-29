@@ -1,0 +1,12 @@
+.color-block{
+  height: 40px;
+  width: 40px;
+  border: 1px solid red;
+  border-radius: 50px;
+
+  
+}
+.color-container{
+  display: flex;
+  justify-content: space-evenly;
+}
